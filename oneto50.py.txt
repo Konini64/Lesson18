@@ -1,0 +1,10 @@
+num = 0
+idx_i = 1
+while idx_i < 50:
+ num = num + idx_i
+
+print("‚T‚O‚Ü‚Å‚Ì‘˜a‚Í"+ num + "‚Å‚·B")
+
+
+
+

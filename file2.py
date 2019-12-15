@@ -1,0 +1,1 @@
+print sorted(open('data\text.txt').read().split(), key = int, reverse = True)
